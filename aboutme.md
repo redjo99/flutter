@@ -1,15 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hello this is my profile
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Mingyu Jo. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- I go to boxing every day
+- I love to watch movies
+- I enjoy playing baseball
+- I often cook
+- I like to listen to classical music
 
 ### My story
 
