@@ -11,6 +11,7 @@ comments: true
 Hello! I'm 4star, who is trying to get a job in the software field.
 
 I'm trying to record what I've studied so that I can use as a portfolio, and I'm posting it in the form of blog like this in the hope that it will become a path for junior developers.
+So, the first thing I should study is how to make a GitHub blog.
 
 **Here is some bold text**
 
